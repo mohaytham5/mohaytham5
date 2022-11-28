@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mo Haytham
-- I’m a python software developer | data scientist and machine learning expert
-- this is my first time on github
+- I’m a Data Analyst
 - 📫 Let's connect mo4business@protonmail.com
